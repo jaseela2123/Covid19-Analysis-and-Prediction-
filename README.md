@@ -3,6 +3,9 @@ Data Science project on analysis of Covid-19
 pandemic and prediction of confirmed cases, survival
 using Machine Learning Technique
 
+# Contributers
+Preethi-190998
+
 # Project presentation slides
 
 [Covid-19 Prediction And Analysis.pdf](https://github.com/jaseela2123/Covid19-Analysis-and-Prediction-/files/8688941/Covid-19.Prediction.And.Analysis.pdf)
@@ -19,3 +22,4 @@ using Machine Learning Technique
 ![clustrng](https://user-images.githubusercontent.com/84795666/168315823-f30f6d77-855a-4f62-b4ad-c8081da28517.png)
 ![SR3](https://user-images.githubusercontent.com/84795666/168315852-4d06cca9-bed1-4b68-a869-7bfaf8de0c0b.png)
 ![PR3](https://user-images.githubusercontent.com/84795666/168315868-1b3b2bfb-5c37-43dd-9f52-674ad6d1e99f.png)
+
