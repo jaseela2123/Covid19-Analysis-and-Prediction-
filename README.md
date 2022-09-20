@@ -5,7 +5,8 @@ using Machine Learning Technique
 
 # Project presentation slides
 
-[Covid-19 Prediction And Analysis.pdf](https://github.com/jaseela2123/Covid19-Analysis-and-Prediction-/files/8688941/Covid-19.Prediction.And.Analysis.pdf)
+[Covid_19_prediction_and_analysis.pdf](https://github.com/jaseela2123/Covid19-Analysis-and-Prediction-/files/9605003/Covid_19_prediction_and_analysis.pdf)
+
 
 # Screen shots
 
